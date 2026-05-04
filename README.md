@@ -14,9 +14,6 @@
 ## 🚀 About Me
 
 * 🧠 مطور **Minecraft Plugins** باستخدام Java (Spigot / Paper)
-* ⚡ أحب أبني أنظمة سيرفرات (Economy, PvP, Minigames)
-* 🎯 هدفي أصير مطور قوي في مجال السيرفرات والألعاب
-* 💬 تقدر تسألني عن أي شيء يخص ماينكرافت أو البرمجة
 
 ---
 
@@ -61,7 +58,6 @@ public class Wahb extends Developer {
 ## 📌 Current Focus
 
 * 🔥 تطوير Plugins احترافية للسيرفرات
-* 📚 تحسين مهاراتي في Java و APIs
 * 🧩 بناء أنظمة معقدة ومميزة
 
 ---

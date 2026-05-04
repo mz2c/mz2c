@@ -82,7 +82,7 @@ public class Wahb extends Developer {
 ## 📬 Contact
 
 * 💬 Discord: mz2c
-* 📢 GitHub: https://github.com/yourusername
+* 📢 GitHub: https://github.com/mz2c
 
 ---
 
